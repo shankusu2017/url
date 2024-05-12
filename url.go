@@ -1,7 +1,7 @@
 package url
 
 const (
-	DOMAIN_MGR = "mgr.shanks.link" // 主机管理
+	DOMAIN_MGR = "hk.shanks.link" // 主机管理
 )
 
 const (
