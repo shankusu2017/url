@@ -10,5 +10,7 @@ const (
 )
 
 const (
-	PORT_REPEATER_SERVER = 465
+	PORT_REPEATER_SERVER        = 465
+	PORT_REPEATER_SERVER_IPERF3 = 5201 // 假装成 iperf3 的数据包
+	PORT_NODEMGR                = 7080
 )
