@@ -7,6 +7,7 @@ const (
 const (
 	URL_EVENT_POST      = "/v1/event/post"          /* 事件上报的 URL */
 	URL_EVENT_GET       = "/v1/event/get"           /* 查看事件 */
+	URL_EVENT_HELP      = "/v1/event/help"          /* 事件帮助 */
 	URL_REPEATER_SERVER = "/v1/vpn/repeater/server" /* REPEATER SERVER 信息 */
 )
 
