@@ -12,7 +12,9 @@ const (
 )
 
 const (
+	/* local.vpn 和 outer.vpn 服务器通信用的端口 */
 	PORT_REPEATER_SERVER        = 465
 	PORT_REPEATER_SERVER_IPERF3 = 5201 /* 假装成 iperf3 的数据包 */
-	PORT_NODEMGR                = 7080
+	/* vpn.node 和 nodeMgr http 通信用的端口 */
+	PORT_NODEMGR = 7080
 )
